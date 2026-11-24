@@ -21,6 +21,28 @@ Beginner-friendly technical posts on web development, JavaScript, React, Git and
 |---|---|
 | [Why "5" + 3 Is "53": JavaScript Operators for Beginners](https://jaydeepkanzariya.hashnode.dev/javascript-operators-basics) | [`javascript-operators-basics`](posts/javascript-operators-basics/index.md) |
 | [Look Left of the Dot: How JavaScript Decides What this Is](https://jaydeepkanzariya.hashnode.dev/javascript-this-keyword) | [`javascript-this-keyword`](posts/javascript-this-keyword/index.md) |
+| [Borrow a Method, Lock a this: call(), apply() and bind() Explained](https://jaydeepkanzariya.hashnode.dev/javascript-call-apply-bind) | [`javascript-call-apply-bind`](posts/javascript-call-apply-bind/index.md) |
+| [Call It Before You Define It: Function Declarations vs Expressions](https://jaydeepkanzariya.hashnode.dev/function-declaration-vs-expression) | [`function-declaration-vs-expression`](posts/function-declaration-vs-expression/index.md) |
+| [Why obj[1] and obj["1"] Are the Same Key: Map and Set Explained](https://jaydeepkanzariya.hashnode.dev/why-obj-1-and-obj-1-are-the-same-key-map-and-set-explained) | [`javascript-map-and-set`](posts/javascript-map-and-set/index.md) |
+| [Stop Writing user.name Five Times: JavaScript Destructuring Explained](https://jaydeepkanzariya.hashnode.dev/javascript-destructuring) | [`javascript-destructuring`](posts/javascript-destructuring/index.md) |
+| [JavaScript Arrays 101: Why the First Item Is at Index 0](https://jaydeepkanzariya.hashnode.dev/javascript-arrays-101) | [`javascript-arrays-101`](posts/javascript-arrays-101/index.md) |
+| [A Value That Isn't Here Yet: JavaScript Promises for Beginners](https://jaydeepkanzariya.hashnode.dev/javascript-promises-explained) | [`javascript-promises-explained`](posts/javascript-promises-explained/index.md) |
+| [One Blueprint, Many Objects: Classes in JavaScript for Beginners](https://jaydeepkanzariya.hashnode.dev/one-blueprint-many-objects-classes-in-javascript-for-beginners) | [`javascript-oop-classes`](posts/javascript-oop-classes/index.md) |
+| [One Thing at a Time: Synchronous vs Asynchronous JavaScript](https://jaydeepkanzariya.hashnode.dev/synchronous-vs-asynchronous-javascript) | [`synchronous-vs-asynchronous-javascript`](posts/synchronous-vs-asynchronous-javascript/index.md) |
+| [From .then() Chains to async/await: Same Promises, Cleaner Code](https://jaydeepkanzariya.hashnode.dev/javascript-async-await) | [`javascript-async-await`](posts/javascript-async-await/index.md) |
+| [try/catch/finally in JavaScript: Fail Gracefully Instead of Crashing](https://jaydeepkanzariya.hashnode.dev/javascript-error-handling) | [`javascript-error-handling`](posts/javascript-error-handling/index.md) |
+| [Same Three Dots, Opposite Jobs: Spread vs Rest in JavaScript](https://jaydeepkanzariya.hashnode.dev/same-three-dots-opposite-jobs-spread-vs-rest-in-javascript) | [`javascript-spread-vs-rest`](posts/javascript-spread-vs-rest/index.md) |
+| [person.key vs person[key]: JavaScript Objects for Beginners](https://jaydeepkanzariya.hashnode.dev/javascript-objects-basics) | [`javascript-objects-basics`](posts/javascript-objects-basics/index.md) |
+| [JavaScript String Methods From Scratch, Tested Against the Real Thing](https://jaydeepkanzariya.hashnode.dev/javascript-string-polyfills) | [`javascript-string-polyfills`](posts/javascript-string-polyfills/index.md) |
+| [let, const or var? Variables and Data Types in JavaScript](https://jaydeepkanzariya.hashnode.dev/javascript-variables-data-types) | [`javascript-variables-data-types`](posts/javascript-variables-data-types/index.md) |
+| [Why Your switch Runs Three Cases: break Explained](https://jaydeepkanzariya.hashnode.dev/javascript-control-flow) | [`javascript-control-flow`](posts/javascript-control-flow/index.md) |
+| [What new Really Does: Four Steps Behind Every JavaScript Constructor](https://jaydeepkanzariya.hashnode.dev/javascript-new-keyword) | [`javascript-new-keyword`](posts/javascript-new-keyword/index.md) |
+| [Pass the Function, Don't Call It: Callbacks in JavaScript Explained](https://jaydeepkanzariya.hashnode.dev/javascript-callbacks) | [`javascript-callbacks`](posts/javascript-callbacks/index.md) |
+| [Why x => { x * 2 } Returns undefined: Arrow Function Basics](https://jaydeepkanzariya.hashnode.dev/javascript-arrow-functions) | [`javascript-arrow-functions`](posts/javascript-arrow-functions/index.md) |
+| [Why "Total: " + 5 + 3 Prints 53, and What Template Literals Fix](https://jaydeepkanzariya.hashnode.dev/javascript-template-literals) | [`javascript-template-literals`](posts/javascript-template-literals/index.md) |
+| [flat(1) Isn't Flat: Array Flattening in JavaScript, Step by Step](https://jaydeepkanzariya.hashnode.dev/javascript-array-flatten) | [`javascript-array-flatten`](posts/javascript-array-flatten/index.md) |
+| [Why Node Says "Cannot use import statement outside a module"](https://jaydeepkanzariya.hashnode.dev/javascript-modules-import-export) | [`javascript-modules-import-export`](posts/javascript-modules-import-export/index.md) |
+| [map Returns a New Array, push Changes the Old One: Array Methods for Beginners](https://jaydeepkanzariya.hashnode.dev/javascript-array-methods) | [`javascript-array-methods`](posts/javascript-array-methods/index.md) |
 
 ### React
 
